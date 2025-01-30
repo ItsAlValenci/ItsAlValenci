@@ -7,7 +7,6 @@ Data Analyst.
 * 🌍  I'm based in San Francisco, Bay Area
 * 🔭  I’m currently working on my Master's Degree
 * 🌱  I'm learning Data Analytics
-* ✉️  You can contact me at [albertline.vc@gmail.com](mailto:albertline.vc@gmail.com)
 
 
 ### Skills
