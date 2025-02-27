@@ -24,8 +24,8 @@ I’m a data analyst with **3+ years of experience** in transforming raw data in
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://looker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/looker-colored.svg" width="36" height="36" alt="Looker" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/tableau-icon.svg" width="36" height="36" alt="Tableau" /></a>
+<a href="https://looker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/looker-icon.svg" width="36" height="36" alt="Looker" /></a>
 </p>
 
 ---
