@@ -5,8 +5,6 @@ Data Analyst.
 -------------
 
 * 🌍  I'm based in San Francisco, Bay Area
-* 🔭  I’m currently working on my Master's Degree
-* 🌱  I'm learning Data Analytics
 
 
 ### Skills
