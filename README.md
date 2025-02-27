@@ -3,7 +3,7 @@
 
 
 
-**Data Analyst | Analytics Professional | M.S. Data Analytics
+**Data Analyst | Analytics Professional | M.S. Data Analytics**
 📍 San Francisco Bay Area, CA  
 📧 [Email](mailto:albertvalencia904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/alvalenci)  
 
