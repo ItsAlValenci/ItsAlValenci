@@ -1,37 +1,39 @@
-# Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Albert Valencia
+# Hey There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-**Data Scientist |  M.S. Data Analytics**
-📍 San Francisco Bay Area, CA  
-📧 [Email](mailto:albertvalencia904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/alvalenci)  
+I'm Albert, a data analyst based in the San Francisco Bay Area with a master's in data analytics and a background in business systems & project management. I'm driven by curiosity, especially around how people use technology and how data can create opportunities for better design and decision-making.
 
----
+These repositories are a collection of side projects I've worked on in my free time (part learning, part experimentation)
 
-## 👨‍💻 About Me  
-I’m a data analyst with **3+ years of experience** in transforming raw data into actionable insights for business growth. My expertise lies in **Python, SQL, and machine learning**, with a focus on predictive analytics, market trend analysis, and data storytelling.
+Current Focus
+- Analyzing global trade and market behavior using open data sources  
+- Building lightweight AI tools to automate tasks   
 
-- 🎓 **Master of Science in Data Analytics** 
-- 🔍 **Skills**: Python (Pandas, Scikit-learn), SQL, BigQuery, Looker Studio, Tableau, Machine Learning.  
-- 🚀 **Currently**: Analyzing global trade data to optimize market strategies and building AI-powered tools.
----
 
-## 🛠️ Technical Skills  
+
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/tableau-icon.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://looker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/looker-icon.svg" width="36" height="36" alt="Looker" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,mysql,mongodb,vscode,git,gcp" />
+  </a>
 </p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/-MacOS-FFFFFF?logo=apple&logoColor=grey" alt="MacOS">
+  <img src="https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626" alt="Jupyter">
+  <img src="https://img.shields.io/badge/-Pandas-FFFFFF?logo=pandas&logoColor=grey" alt="Pandas">
+  <img src="https://img.shields.io/badge/-Scikit--learn-FFFFFF?logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/-Matplotlib-FFFFFF" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/-Streamlit-FFFFFF?logo=streamlit&logoColor=F74B4D" alt="Streamlit">
 
-## 📫 Let's Connect!  
-I’m always open to collaborating on exciting projects or discussing opportunities in data science and analytics. Feel free to reach out!  
-- 📧 **Email**: [albertvalencia904@gmail.com](mailto:albertvalencia904@gmail.com)  
-- 💼 **LinkedIn**: [Albert Valencia](https://www.linkedin.com/in/alvalenci)  
+</p>
 
----
+## Interests
 
- **EXTRA**: I’m a huge fan of gaming (COD and Zombie games are my guilty pleasures!) and love exploring how data drives user behavior and product innovation.  
+Outside of work, I’m a huge fan of games like COD and the zombie genre, and I enjoy exploring how user behavior creates new experiences.
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alvalenci" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+</p>
