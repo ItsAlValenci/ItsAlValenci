@@ -33,7 +33,7 @@ Outside of work, I’m a huge fan of games like COD and the zombie genre, and I 
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alvalenci" target="_blank">
+  <a href="[https://www.linkedin.com/in/alvalenci](https://www.linkedin.com/in/itsalvalenci/)" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
 </p>
