@@ -1,6 +1,6 @@
 # Hey There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Albert, a data analyst based in the San Francisco Bay Area with a master's in data analytics and a background in business systems & project management. I'm driven by curiosity, especially around how people use technology and how data can create opportunities for better design and decision-making.
+I'm Albert, a Data scientist based in the San Francisco Bay Area with a master's in data analytics and a background in business systems & project management. I'm driven by curiosity, especially about how people use technology and how data can create opportunities for better design and decision-making.
 
 These repositories are a collection of side projects I've worked on in my free time (part learning, part experimentation)
 
